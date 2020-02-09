@@ -1,3 +1,71 @@
+# BANQUI
+
+## 1. Descripción del Problema
+El Banco Pichincha uno de los Bancos líderes en el Perú quiere implementar un Banco 100% digital, llamado Banqui, su principal objetivo es tener un banco que sea más cercano a las necesidades del público más joven del país. Para ello han venido piloteando un app. Los resultados de este piloto son mixtos, hay algunas cosas que han sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
+
+## 2. Objetivos 
+# Aplicación financiera
+* Analizar la data
+* Testear prototipo inicial para encontrar problemas a resolver.
+* Rediseñar Banqui mejorando la experiencia del usuario y así lograr más descargas del app.
+
+## 3. Implementación
+![Tabla implentación](.Imágenes/implementación.png)
+
+## Descubrimiento e investigación (investigación de mercado)
+Uno de los segmentos de fintech que más rápido está creciendo en América Latina es el de bancos 100% digitales. Es un nicho que presenta excelentes oportunidades de expansión.
+Son pocos los bancos digitales y pocos los países que los tienen, pero tienen una tendencia fuerte en la región. Países como Brasil y Argentina han sido los pioneros.
+En Perú, si bien las entidades financieras locales están llevando a cabos procesos de transformación digital, hasta ahora no había noticias de la llegada de algún banco enteramente digital. Y la gran diferencia de estos bancos con los tradicionales es que el 80% de sus estructuras están enfocadas en la experiencia del cliente.
+¿Quiénes usan más aplicaciones bancarias en el Perú?
+El 64% de los peruanos de 18 a 35 años utiliza sus smartphones para efectuar pagos o ver el saldo en su cuenta bancaria. Son los jóvenes los que más adoptan la tecnología y usan apps bancarias. Esta cifra es un promedio entre el 81% de jóvenes que asegura haber efectuado operaciones financieras desde su smartphone al menos una vez en el último mes y el 44% de usuarios nacionales que dijo ser frecuente.
+Además que el 64% de uso de apps bancarias en el Perú supera la cifra en Colombia (58%), Brasil (38%) y Argentina(29%).
+No necesariamente los peruanos están realizando transacciones porque pueden estar entrando solo a verificar su saldo. De otro lado, existe un segmento de solo el 5% de jóvenes peruanos que afirma que nunca efectuó un pago por apps bancarias y no sabía que podía hacerlo.
+Los jóvenes resaltan la posibilidad de ver su saldo en directo, les gusta lo práctico. Pero hay temas de seguridad que son importantes porque si les roban el celular tienen acceso a todas sus cuentas.
+Hay un  22% de los jóvenes evitaría las aplicaciones bancarias por temor a la seguridad de pagos móviles.
+
+## Conclusión de las entrevistas a los usuarios
+
+* Los usuarios buscan seguridad, quieren confiar en que los procesos que van a realizar no haya errores.
+* Los usuarios valoran las rapidez de una operación en una app, si algo tiene muchos pasos, les resulta complicado.
+* La mayoría de los usuarios ingresan para ver sus saldos, realizar transferencias y pagar servicios, en la primera pantalla deben de mostrarse atajos para esas operaciones.
+* Los usuarios necesitan ver en en un app bancaria en que gastan su dinero, para poder llevar en orden sus cuentas.
+* Los usuarios buscan que la app bancaria sea confiable, que dé una sensación de que es una opción segura.
+* A los usuarios les gusta la idea de no tener que acercarse al banco, porque les molesta hacer colas y sienten que toma mucho tiempo.
+* Los usuarios sienten que su banco tiene que tener varios cajeros para cuando necesiten contar efectivo.
+* Los usuarios están abiertos a nuevas tecnologías que les simplifiquen la vida, pero siempre y cuando estas tecnologías sean masivas.
+* Los usuarios valoran un ingreso y/o registro sencillo.
+
+## Testeo del Prototipo de Banqui
+
+## Síntesis y Definición
+
+## Problems Staments
+
+* Claudia necesita ver sus movimientos y detalles para poder llevar el orden de sus gastos.
+* Claudia necesita una app intuitiva y de fácil acceso para realizar sus operaciones en la menor cantidad de tiempo posible.
+* Claudia quisiera ser cliente de un banco en el que pueda hacer todo tipo de trámites de manera online para no perder el tiempo haciendo colas y avanzar con sus actividades diarias.
+* Claudia necesita un banco que le brinde seguridad y confianza para poder realizar sus trámites con tranquilidad.
+
+### HMW
+
+* HMW hacer que la app permita al usuario saber sobre sus consumos de forma amigable.
+* HMW hacer una app que permita registrarse de manera rápida.
+* HMW diseñar una app que al usuario le resulte simple de entender.
+* HMW hacer que la app permita al usuario realizar todas sus operaciones y consultas de manera online.
+* HMW hacer que el usuario pueda ver las operaciones a realizar de una forma ordenada, para que la interacción le sea sencilla e intuitiva.
+* HMW hacer que el usuario al tener alguna duda, se comunique con una persona real de manera online.
+* HMW hacer que el usuario se identifique el banco para que sienta confianza de realizar sus operaciones.
+
+###  WHAT IF 
+
+* Que tal si en el saldo agregamos ver movimientos para que pueda ingresar más rápido.
+* Que tal si el usuario se registre con el número de TJ y documento.
+* Que tal si el usuario ingrese a la aplicación tan solo con su documento y contraseña.
+* Que tal si acortamos el pago de servicios para que sea más sencillo.
+* Que tal si agregamos la opción a que el usuario pueda comunicarse con el Banco en cualquier momento.
+* Que tal si creamos un logo de Banqui para que así pueda identificarlo mejor.
+
+## Ideación
 # Aplicación financiera
 
 ## Preámbulo
